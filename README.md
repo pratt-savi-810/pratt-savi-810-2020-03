@@ -17,9 +17,9 @@
 * [Lesson 10](https://github.com/pratt-savi-810/pratt-savi-810-2020-03-lesson_10)
 * [Lesson 11](https://github.com/pratt-savi-810/pratt-savi-810-2020-03-lesson_11)
 * [Lesson 12](https://github.com/pratt-savi-810/pratt-savi-810-2020-03-lesson_12)
-* [Lesson 13]()
-* [Lesson 14]()
-* [Lesson 15]()
+* Lesson 13 (...repo not yet activated)
+* Lesson 14 (...repo not yet activated)
+* Lesson 15 (...repo not yet activated)
 
 
 
